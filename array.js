@@ -15,10 +15,12 @@ const person = {
   name: "송주령💛",
   isMale: false,
   mbti: "ISTJ❤️",
-  age: 27+"💚"
+  age: 27+"💚",
+  favoriteFoods: ["떡볶이","마라탕","초밥","햄버거","키토김밥"]
 }
 console.log("🚀 ~ person:", person);
 
 console.log("name:",person["name"]);
 console.log("isMale:",person.isMale);
 console.log("나이:",person.age);
+console.log("소울푸드:",person.favoriteFoods[1]);
