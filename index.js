@@ -98,3 +98,24 @@ const double = (num) => {
 
 const doubleResult = double(add);
 console.log("🚀 ~ doubleResult:", doubleResult)
+
+console.log("=-----------------------------------------");
+
+//조건문
+if(sum(80,30) >= 60){
+  console.log("합격")
+} else {
+  console.log("불합");
+}
+
+if(true){
+  console.log("조건문 실행")
+}
+
+const score = 70;
+if(score >= 80){
+  console.log("하이하이");
+}else {
+  console.log("바이바이");
+}
+
