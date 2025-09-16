@@ -170,13 +170,13 @@ if(""){
 //   alert("입력값을 작성해주세요");
 // }
 
-const daysOfWeek = ["월요일","화요일","수요일","목요일","금요일","토요일","일요일"]
-console.log("🚀 오늘의 운세:", daysOfWeek[0],"화이팅🔥");
+// const daysOfWeek = ["월요일","화요일","수요일","목요일","금요일","토요일","일요일"]
+// console.log("🚀 오늘의 운세:", daysOfWeek[0],"화이팅🔥");
 
-const idol = ["장원영","안유진","리즈","레이","가을","이서"];
-console.log("아이브의 최애: "+idol[1]+"❤️🧡💛💚💙");
-console.log("아이브의 최애: "+idol[5]+"❤️🧡💛💚💙");
-console.log(idol.length);
-console.log("아이브의 최애: "+idol[idol.length -1]+"❤️🧡💛💚💙");
+// const idol = ["장원영","안유진","리즈","레이","가을","이서"];
+// console.log("아이브의 최애: "+idol[1]+"❤️🧡💛💚💙");
+// console.log("아이브의 최애: "+idol[5]+"❤️🧡💛💚💙");
+// console.log(idol.length);
+// console.log("아이브의 최애: "+idol[idol.length -1]+"❤️🧡💛💚💙");
 
-console.log("주령: 27, 혜정: 28 > but//장난을 너무 많이침 8살임 ! , 29, 30");
+// console.log("주령: 27, 혜정: 28 > but//장난을 너무 많이침 8살임 ! , 29, 30");
